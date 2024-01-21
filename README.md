@@ -1,5 +1,8 @@
 # MyAudio: Audio Store & Library Simulator
 
+## Overview
+Developed for Computer Science II (CPS209), is an audio content management simulator created for my Computer Science II (CPS 209) course. This program, similar to Spoitfy, supports the administration of numerous audio formats, such as music and audiobooks, in a virtual library. It also communicates with a simulated online store to download and manage audio content.
+
 ## Specifications
 
 - Integrated a simulated online store for seamless audio content downloads.
